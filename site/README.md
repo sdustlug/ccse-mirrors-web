@@ -11,7 +11,7 @@ layout: HomeLayout
 问题反馈与镜像请求: lug@sdust.edu.cn
 友情链接: [山东科技大学正版化软件平台](http://zbh.sdust.edu.cn/)
 
-<div style="display: flex; flex-direction: row; margin: 0 auto; width: 200px;"><img alt="SDUST 镜像站交流 QQ 群: 213922481" src="/assets/img/qr-open.png" style="height: 96px; padding-right: 8px;" /></div><p><a href="https://qm.qq.com/cgi-bin/qm/qr?k=N0xwz-MZbf4E0vb3eBrQKXq9Mma0-XEm&group_code=213922481">镜像站开放交流群</a></p>
+<div style="display: flex; flex-direction: row; margin: 0 auto; width: 200px;"><img alt="SDUST 镜像站交流 QQ 群: 213922481" src="/assets/img/qr-open.png" style="height: 96px; padding-right: 8px;" /><img alt="问卷调查二维码" src="/assets/img/survey-qr.png" style="height: 96px;"></div><p style="text-align: center;"><a href="https://qm.qq.com/cgi-bin/qm/qr?k=N0xwz-MZbf4E0vb3eBrQKXq9Mma0-XEm&group_code=213922481">镜像站交流群</a> | <a href="https://www.wenjuan.com/s/UZBZJvbGJV/">填写调查问卷</a></p>
 
 _Powered by [mugi](https://github.com/sdustlug/mugi) and [ccse-mirrors-web](https://github.com/sdustlug/ccse-mirrors-web)_
 _Supported by SDUSTLUG_
